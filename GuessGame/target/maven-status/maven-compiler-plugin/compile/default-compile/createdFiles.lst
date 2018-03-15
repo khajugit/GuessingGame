@@ -1,0 +1,4 @@
+com\factset\game\beans\GuessNumberBean.class
+com\factset\game\model\GuessNumber.class
+com\factset\game\servlets\GuessGameServlet.class
+com\factset\game\utilities\WebUtils.class
